@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @KuzuEnes
+- 👋 Hi, I’m Enes Kuzu
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me this email: eneskuzu2003@gmail.com
 
-<!---
-KuzuEnes/KuzuEnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
